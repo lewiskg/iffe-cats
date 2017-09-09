@@ -1,19 +1,21 @@
-console.log("in xhr.js");
-
 var CatStore = ((oldCatStore) => {
 
 	oldCatStore.catLoadWorks = function() {
 		let catData = JSON.parse(this.responseText).cats;
-		console.log("catData", catData);
+		CatStore.setAllCats(catData);
+		CatStore.ownerXHR();
 
 	};
 	oldCatStore.ownerLoadWorks = function() {
 		let ownerData = JSON.parse(this.responseText).owners;
-		console.log("ownerData", ownerData);
- 
+		CatStore.setAllOwners(ownerData);
+		let catArray = CatStore.getAllCats();
+		let ownerArray = CatStore.getAllOwners();
+		CatStore.combineArrays(catArray, ownerArray);
+ 	
 	};
 	oldCatStore.loadBroken = () => {
-		console.log("Broken Load");
+		//console.log("Broken Load");
 	};
 
 	oldCatStore.catXHR = () => {
