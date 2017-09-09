@@ -6,7 +6,7 @@
     "ownerId": 0,
     "specialSkill": "Expertly quotes and recognizes dialogue from early seasons of The Simpsons.",
     "numberOfToes": 14,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Peanut",
@@ -14,7 +14,7 @@
     "ownerId": 0,
     "specialSkill": "Doesn’t get weirded out by the word 'moist'.",
     "numberOfToes": 20,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Sam",
@@ -22,7 +22,7 @@
     "ownerId": 0,
     "specialSkill": "Will loan you books without freaking out if you have them for a while.",
     "numberOfToes": 15,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Boo",
@@ -30,7 +30,7 @@
     "ownerId": 1,
     "specialSkill": "Proficient in air guitar",
     "numberOfToes": 14,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Cuddles",
@@ -38,7 +38,7 @@
     "ownerId": 0,
     "specialSkill": "Expertly quotes and recognizes dialogue from early seasons of The Simpsons.",
     "numberOfToes": 2,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Garfield",
@@ -46,7 +46,7 @@
     "ownerId": 2,
     "specialSkill": "Dances when he has to.",
     "numberOfToes": 11,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Princess",
@@ -54,7 +54,7 @@
     "ownerId": 0,
     "specialSkill": "Will pet your cat even though he does not like your cat.",
     "numberOfToes": 19,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Annie",
@@ -62,7 +62,7 @@
     "ownerId": 3,
     "specialSkill": "Gives hugs with appropriate pressure and for the right length of time.",
     "numberOfToes": 3,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Cali",
@@ -70,7 +70,7 @@
     "ownerId": 0,
     "specialSkill": "Is totally laid back if you spell his name wrong.",
     "numberOfToes": 6,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Molly",
@@ -78,7 +78,7 @@
     "ownerId": 0,
     "specialSkill": "Gives sincere apologies.",
     "numberOfToes": 14,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Abby",
@@ -86,7 +86,7 @@
     "ownerId": 0,
     "specialSkill": "Does not freak out if you haven’t seen his favorite movie (The Big Lebowski).",
     "numberOfToes": 12,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Mittens",
@@ -94,7 +94,7 @@
     "ownerId": 1,
     "specialSkill": "Showers regularly.",
     "numberOfToes": 20,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Milo",
@@ -102,7 +102,7 @@
     "ownerId": 1,
     "specialSkill": "Participates in karaoke but does not force others to go out to karaoke.",
     "numberOfToes": 0,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Kiki",
@@ -110,7 +110,7 @@
     "ownerId": 3,
     "specialSkill": "Gives thoughtful and creative birthday presents.",
     "numberOfToes": 9,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Princess",
@@ -118,7 +118,7 @@
     "ownerId": 2,
     "specialSkill": "Will pet your cat even though he does not like your cat.",
     "numberOfToes": 9,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Pepper",
@@ -126,7 +126,7 @@
     "ownerId": 1,
     "specialSkill": "Not too shabby at spelling.",
     "numberOfToes": 18,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Max",
@@ -134,7 +134,7 @@
     "ownerId": 1,
     "specialSkill": "Gives hugs with appropriate pressure and for the right length of time.",
     "numberOfToes": 6,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Gracie",
@@ -142,7 +142,7 @@
     "ownerId": 3,
     "specialSkill": "Will pet your cat even though he does not like your cat.",
     "numberOfToes": 15,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Leo",
@@ -150,7 +150,7 @@
     "ownerId": 1,
     "specialSkill": "Expertly quotes and recognizes dialogue from early seasons of The Simpsons.",
     "numberOfToes": 13,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Shadow",
@@ -158,7 +158,7 @@
     "ownerId": 1,
     "specialSkill": "Not too shabby at spelling.",
     "numberOfToes": 15,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Bailey",
@@ -166,7 +166,7 @@
     "ownerId": 3,
     "specialSkill": "Will loan you books without freaking out if you have them for a while.",
     "numberOfToes": 15,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Daisy",
@@ -174,7 +174,7 @@
     "ownerId": 1,
     "specialSkill": "Gives hugs with appropriate pressure and for the right length of time.",
     "numberOfToes": 1,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Pepper",
@@ -182,7 +182,7 @@
     "ownerId": 1,
     "specialSkill": "Dances when he has to.",
     "numberOfToes": 12,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Boots",
@@ -190,7 +190,7 @@
     "ownerId": 3,
     "specialSkill": "Dances when he has to.",
     "numberOfToes": 9,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Zoey",
@@ -198,7 +198,7 @@
     "ownerId": 2,
     "specialSkill": "Gives sincere apologies.",
     "numberOfToes": 11,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Lucy",
@@ -206,7 +206,7 @@
     "ownerId": 1,
     "specialSkill": "Gives compliments when compliments are due.",
     "numberOfToes": 7,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Dusty",
@@ -214,7 +214,7 @@
     "ownerId": 3,
     "specialSkill": "Will not make a scene when your grandmother says something mildly anti-Semitic.",
     "numberOfToes": 5,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Milo",
@@ -222,7 +222,7 @@
     "ownerId": 1,
     "specialSkill": "Takes the morning shift driving on road trips.",
     "numberOfToes": 17,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "George",
@@ -230,7 +230,7 @@
     "ownerId": 1,
     "specialSkill": "Burps minimally.",
     "numberOfToes": 18,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   },
   {
     "name": "Shadow",
@@ -238,6 +238,6 @@
     "ownerId": 3,
     "specialSkill": "Gives thoughtful and creative birthday presents.",
     "numberOfToes": 12,
-    "imageUrl": "https://media2.giphy.com/media/vFKqnCdLPNOKc/200.gif?fingerprint=e1bb72ff59b3da906f4b517232152ae5"
+    "imageUrl": "https://random-dogs-api.herokuapp.com/cats/15"
   }]
 }

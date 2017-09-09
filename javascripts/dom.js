@@ -17,18 +17,20 @@ var CatStore = ((oldCatStore) => {
 		let catz = '';
         for(let i=0; i<inputArray.length; i++){
             let newCat = "";
-            newCat+=`<div class="col-xs-3">`
+            newCat+=`<div class="col-xs-3">`;
             newCat+=`<div class="catBox col-xs-12 text-center noPad"  id="catBox-${i}">`;
             newCat+=`<div class="catName">${inputArray[i].name}</div>`;
             newCat+=`<img class="catImage" src="${inputArray[i].imageUrl}">`;
+            // newCat+=`<img class="catImage" src="https://img.buzzfeed.com/buzzfeed-static/static/2015-11/2/10/enhanced/webdr06/anigif_original-grid-image-14660-1446477682-15.gif?crop=250:165;0,0&downsize=715">`;
+
             if(inputArray[i].owner !== "None"){
-                newCat+= `<button class="btn btn-default owner">${inputArray[i].owner}</button>`
+                newCat+= `<button class="btn btn-default owner">${inputArray[i].owner}</button>`;
             } else {
-                newCat+= `<button class="btn btn-danger owner" id="adopt-${i}">Adopt Me!</button>`
+                newCat+= `<button class="btn btn-danger owner" id="adopt-${i}">Adopt Me!</button>`;
             }
-            newCat+= `<div class="catSkill text-center">${inputArray[i].specialSkill}</div>`
-            newCat+= `</div>`
-            newCat+= `</div>`
+            newCat+= `<div class="catSkill text-center">${inputArray[i].specialSkill}</div>`;
+            newCat+= `</div>`;
+            newCat+= `</div>`;
             catz += newCat;
         }
 		CatStore.writeTDom(catz);
