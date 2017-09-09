@@ -1,1 +1,8 @@
-console.log("in cats.js");
+console.log("in xhr.js");
+
+var CatStore = ((oldCatStore) => {
+
+
+
+	return oldCatStore;
+})(CatStore || {});
