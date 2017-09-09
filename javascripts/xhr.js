@@ -22,7 +22,9 @@ var CatStore = ((oldCatStore) => {
 		let myCats = new XMLHttpRequest;
 		myCats.addEventListener("load", CatStore.catLoadWorks);
 		myCats.addEventListener("load", CatStore.loadBroken);
-		myCats.open("GET","./db/cats.json");
+		// myCats.open("GET","./db/cats.json");
+		myCats.open("GET","https://random-dogs-api.herokuapp.com/cats/15");
+
 		myCats.send();
 	};
 
